@@ -1,0 +1,19 @@
+20x20 - one------------------------------
+Determinate time=4 ms
+Recursive Time=62 ms
+ENNNDDDD!!!!! Total Time=222 ms
+
+20x20 - rows------------------------------
+Determinate time=3 ms
+Recursive Time=350 ms
+ENNNDDDD!!!!! Total Time=470 ms
+
+20x20 - one black-white------------------------
+Determinate time=15 ms
+Recursive Time=52 ms
+ENNNDDDD!!!!! Total Time=223 ms
+
+drakon-------------------------
+Determinate time=286498 ms
+Recursive Time=62 ms
+ENNNDDDD!!!!! Total Time=286745 ms
